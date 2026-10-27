@@ -1,0 +1,8 @@
+{
+  "name": "Tej AI - Automatic Call Assistant",
+  "description": "Production-ready automatic call assistant for Tej Pawar powered by Gemini Live API bi-directional audio streaming.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
